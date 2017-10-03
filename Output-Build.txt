@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: TheorOfInf_Lab1, Configuration: Debug Win32 ------
+1>  IEncoder.cpp
+1>c:\users\kostya\documents\visual studio 2012\projects\theorofinf_lab1\theorofinf_lab1\iencoder.cpp(59): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+1>c:\users\kostya\documents\visual studio 2012\projects\theorofinf_lab1\theorofinf_lab1\iencoder.cpp(99): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+1>  TheorOfInf_Lab1.vcxproj -> C:\Users\Kostya\documents\visual studio 2012\Projects\TheorOfInf_Lab1\Debug\TheorOfInf_Lab1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
